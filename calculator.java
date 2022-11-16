@@ -1,4 +1,4 @@
-//make the calculator using java
+//make the calculator using java by Don
 import java.util.Scanner;
 public class calculator {
     public static void main(String[] args) {
