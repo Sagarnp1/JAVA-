@@ -35,7 +35,7 @@ public class calculator {
                 System.out.println(num1+  "%"   +num2 + "="  +ans);
                 break;
             default:
-                System.out.println("You entred invalid Operator, Motherfucker");
+                System.out.println("You entred invalid Operator");
                 break;
         }
     }
